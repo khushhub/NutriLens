@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jalebi",
+    "calories": 200,
+    "protein": 8.0,
+    "carbs": 30.0,
+    "fat": 5.0,
+    "time": "2026-03-18 16:48:54"
+  },
+  {
+    "name": "Samosa (50g)",
+    "calories": 131.0,
+    "protein": 2.2,
+    "carbs": 14.2,
+    "fat": 7.4,
+    "time": "2026-03-18 17:12:38"
+  },
+  {
+    "name": "Masala Munch (100g)",
+    "calories": 558.0,
+    "protein": 6.4,
+    "carbs": 55.2,
+    "fat": 34.7,
+    "time": "2026-03-18 17:13:24"
+  },
+  {
+    "name": "Coca-Cola Original Taste (300g)",
+    "calories": 126.0,
+    "protein": 0.0,
+    "carbs": 31.8,
+    "fat": 0.0,
+    "time": "2026-03-18 17:18:26"
+  },
+  {
+    "name": "Roti (30g)",
+    "calories": 90.0,
+    "protein": 2.7,
+    "carbs": 16.5,
+    "fat": 1.9,
+    "time": "2026-03-18 17:35:26"
+  }
+]
