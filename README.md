@@ -170,9 +170,9 @@ Open your browser at **http://localhost:8501**
 ##  Usage
 
 ### Food Photo Analysis
-1. Go to ** Home**
+1. Go to Home
 2. Upload a food photo (jpg/png)
-3. Click ** Analyze Food**
+3. Click  Analyze Food
 4. Adjust the **grams consumed** slider
 5. Click ** Log Meal**
 
