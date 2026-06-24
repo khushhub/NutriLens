@@ -224,7 +224,7 @@ To deploy your own instance:
 1. Fork this repository
 2. Go to [share.streamlit.io](https://share.streamlit.io)
 3. Connect your GitHub account
-4. Select `programcode20/NutriLens` → `main` → `app.py`
+4. Select `khushhub/NutriLens` → `main` → `app.py`
 5. Under **Advanced Settings → Secrets**, add:
 ```toml
 GROQ_API_KEY = "your_groq_api_key_here"
